@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Sample Page
-#permalink: /about/
+nav_order: 2
 ---
 
 This is some sample markdown with a link to [ArsTechnica](https://arstechnica.com).
