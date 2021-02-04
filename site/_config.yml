@@ -23,15 +23,20 @@ email: kevincantu+site@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I occasionally say interesting things.
 baseurl: "/"
-url: "https://kevincantu.org"
-twitter_username: killerswan
-github_username:  killerswan
+#url: "https://kevincantu.org"
+#twitter_username: killerswan
+#github_username: killerswan
 
 # Build settings
 theme: "just-the-docs"
 plugins:
   - jekyll-feed
 
+aux_links:
+  "Twitter": "https://twitter.com/killerswan"
+  "LinkedIn": "https://www.linkedin.com/in/kevincantu/"
+  "GitHub (work)": "https://github.com/kevincantu"
+  "GitHub (OSS)": "https://github.com/killerswan"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
